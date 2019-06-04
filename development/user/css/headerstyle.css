@@ -28,7 +28,7 @@
 .navbar-icon-top .navbar-nav .nav-link:hover {
   color: #563D7C;
   font-weight: bold;
-    border-bottom: 2px solid #563D7C;
+  border-bottom: 2px solid #563D7C;
 }
 
 @media (min-width: 576px) {
@@ -226,4 +226,21 @@ a:hover
 .band-div
 {
   cursor: pointer;
+}
+
+
+.btn-carousel
+{
+  background-color: #555; 
+  width: 10px;
+}
+
+.cur
+{
+  cursor: pointer;
+}
+
+.f-12
+{
+  font-size: 12px;
 }

@@ -1,178 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Pricena</title>
-
-	<meta charset="utf-8">
-	<meta name="Paras" content="Pricena">
-
-	<!-- Bootstrap Link -->
-	<link rel="stylesheet" type="text/css" href="development/bootstrap/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="development/bootstrap/owl.carousel.min.css">
-	<link rel="stylesheet" type="text/css" href="development/user/css/headerstyle.css">
-	<link rel="stylesheet" type="text/css" href="development/user/css/body.css">
-
-	<script src="development/js/jquery-3.4.1.js" type="text/javascript"></script>
-	<script src="development/js/bootstrap.min.js" type="text/javascript"></script>
-	<script type="text/javascript" src="development/js/owl.carousel.min.js"></script>
-
-</head>
-<body class="content body">
-
-	<header class="container-fluid header" style="background-color: #ffffff; min-width: 768px;">
-		<nav class="navbar navbar-icon-top navbar-expand-lg navbar-light">
-		  	<div class="row" style="width: 100%;">
-			
-				<!-- Top Bar -->
-				<div class="container-fluid">
-					<div class="row">
-					  	
-					  	<div class="col-2">
-					  		<a class="logo"><img src="development/images/logo.png'"></a>
-					  	</div>
-
-					  	<div class="col-7 text-center">
-						    <form class="form-inline my-3 my-lg-0" style="width: 100%;">
-						      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" style="width: 100%;">
-						    </form>
-						</div>
-						<div class="col-3">
-						    <div class="row">
-						    	<nav class="navbar-nav">
-						    		<div class="row">
-							    	<li class="nav-item"> 
-							    		<a class="nav-link" href="#">Log In</a> 
-							    	</li>
-							    	<li class="nav-item"> 
-							    		<span class="nav-link"> / </span>
-							    	</li> 
-
-							    	<li class="nav-item"> 
-							    		<a class="nav-link" href="#">Sign Up</a> 
-							    	</li>
-							    	<li class="nav-item dropdown" style="margin-left: 10px;">
-								        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								          Language
-								        </a>
-								        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								          <a class="dropdown-item" href="#">Nepali</a>
-								          <a class="dropdown-item" href="#">Hindi</a>
-								          <div class="dropdown-divider"></div>
-								          <a class="dropdown-item" href="#">English</a>
-								        </div>
-								    </li>
-								    </div>
-								</nav>
-						    </div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Bottom Bar -->
-				<div class="container-fluid">
-					<div class="row">
-
-					  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-					    <ul class="navbar-nav mr-auto">
-					      
-
-
-					      <li class="nav-item dropdown">
-					        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					          <i class="fa fa-envelope-o">
-					            <span class="badge badge-primary">1</span>
-					          </i>
-					          All Category
-					        </a>
-					        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-					          <a class="dropdown-item" href="#">Mobiles, Tablets & Wearables</a>
-					          <a class="dropdown-item" href="#">Computers</a>
-
-					          <a class="dropdown-item" href="#">Cameras</a>
-					          <a class="dropdown-item" href="#">TV & Video</a>
-					          <a class="dropdown-item" href="#">Video Games & Consoles</a>
-					          <a class="dropdown-item" href="#">Audio</a>
-					          <a class="dropdown-item" href="#">Office Supplies</a>
-					          <a class="dropdown-item" href="#">Home Appliances</a>
-					          <a class="dropdown-item" href="#">Personal Care & Beauty</a>
-					          <a class="dropdown-item" href="#">Car Parts & Accessories</a>
-					          <a class="dropdown-item" href="#">Men Fashion</a>
-					          <a class="dropdown-item" href="#">Women Fashion</a>
-					          <a class="dropdown-item" href="#">Books</a>
-					          <a class="dropdown-item" href="#">Sports Equipment</a>
-					          <div class="dropdown-divider"></div>
-					          <a class="dropdown-item" href="#">More...</a>
-					        </div>
-					      </li>
-
-					      <li class="nav-item">
-					        <a class="nav-link" href="#">
-					        	<i class="fa fa-envelope-o">
-					            	<span class="badge badge-danger">HOT</span>
-					          	</i>
-					          	Galaxy S10
-					        </a>
-					      </li>
-					      <li class="nav-item">
-					        <a class="nav-link disabled" href="#">
-					          iPhone XR
-					        </a>
-					      </li>
-
-					      <li class="nav-item dropdown">
-					        <a class="nav-link disabled" href="#">
-					          Note 9
-					        </a>
-					          
-					      <li class="nav-item dropdown">
-					        <a class="nav-link disabled" href="#">
-					          Phone Xs
-					        </a>
-					      <li class="nav-item dropdown">
-					        <a class="nav-link disabled" href="#">
-					        	<i class="fa fa-envelope-o">
-					            	<span class="badge badge-danger">HOT</span>
-					          	</i>
-					         	Huawei P30
-					        </a>
-					      <li class="nav-item dropdown">
-					        <a class="nav-link disabled" href="#">
-					         	Top Sellers
-					        </a>
-					      </li>
-
-					      <li class="nav-item dropdown">
-					        <a class="nav-link disabled" href="#">
-					         	iPhone 8
-					        </a>
-					      </li>
-					      <li class="nav-item dropdown">
-					        <a class="nav-link disabled" href="#">
-					         	Price drops
-					        </a>
-					      </li>
-					      <li class="nav-item dropdown">
-					        <a class="nav-link disabled" href="#">
-					         	Browse By Store
-					        </a>
-					      </li>
-
-
-					    </ul>
-					    <ul class="navbar-nav ">
-					      <li class="nav-item">
-					        <a class="nav-link" href="#">
-					          Coupons & Offers
-					        </a>
-					      </li>
-					    </ul>
-					  </div>
-					</div>
-				</div>
-			</div>
-		</nav>
-	</header>
-
+<?php include("header.html"); ?>
 
 	<div class="container-fluid mt-4">
 		<div class="row">
@@ -180,7 +6,7 @@
 			<div class="col-3">
 				<div class="white-paper pt-3 pb-5" id="Brand">
 
-					<div class="row ml-3" style="font-size: 12px">
+					<div class="row ml-3 f-12" >
 						<strong>Stores on Pricena</strong> &nbsp;&nbsp;<a href="#">See all</a>
 					</div>
 
@@ -280,11 +106,11 @@
 						</div>
 					  </div>
 
-					  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev" style="background-color: #555; width: 10px;">
+					  <a class="carousel-control-prev btn-carousel" href="#carouselExampleIndicators" role="button" data-slide="prev">
 					    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					    <span class="sr-only">Previous</span>
 					  </a>
-					  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next" style="background-color: #555; width: 10px;">
+					  <a class="carousel-control-next btn-carousel" href="#carouselExampleIndicators" role="button" data-slide="next">
 					    <span class="carousel-control-next-icon" aria-hidden="true"></span>
 					    <span class="sr-only">Next</span>
 					  </a>
@@ -345,12 +171,12 @@
 				<div class="row">
 					<div class="col-12">
 						<div class="white-paper">
-							<img src="development/images/app.png" style="width:100%; cursor: pointer;">
+							<img class="w-100 cur" src="development/images/app.png">
 						</div>
 					</div>
 					<div class="col-12 mt-3">
 						<div class="white-paper">
-							<img src="development/images/A.jpg" style="width:100%; height: 100%; cursor: pointer;">
+							<img class="w-100" src="development/images/A.jpg">
 						</div>
 					</div>
 				</div>
@@ -360,6 +186,7 @@
 		</div>
 		
 	</div>
+
 
 
 	<div class="container-fluid mt-3 mb-3">
@@ -444,11 +271,4 @@
 		</div>
 	</div>
 
-
-
-
-	<script type="text/javascript" src="development/user/js/body.js"></script>
-
-
-</body>
-</html>
+<?php include("footer.html"); ?>
