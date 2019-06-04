@@ -206,7 +206,7 @@ a:hover
 
 .header
 {
-  box-shadow: #EEECEE 0px 0px 10px;
+  box-shadow: #888 0px 0px 10px;
 }
 
 .body
@@ -216,9 +216,14 @@ a:hover
 
 .logo
 {
-    background-image: url("//development/images/logo.png");
+  z-index: 100;
+  display: block;
     text-indent: -99999px;
     width: 160px;
     height: 40px;
     float: left;
+}
+.band-div
+{
+  cursor: pointer;
 }
