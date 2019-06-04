@@ -28,7 +28,7 @@
 .navbar-icon-top .navbar-nav .nav-link:hover {
   color: #563D7C;
   font-weight: bold;
-    border-bottom: 2px solid #563D7C;
+  border-bottom: 2px solid #563D7C;
 }
 
 @media (min-width: 576px) {
