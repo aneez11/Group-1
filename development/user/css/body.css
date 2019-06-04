@@ -17,4 +17,35 @@
 	border: solid black 1px;
 	border-radius: 4px;
 	cursor: pointer;
+
+
+}
+
+.sideBar
+{
+  	list-style-type: none;
+}
+
+
+.item-link
+{
+	color: black;
+  	font-size: 12px;
+  	font-weight: bold;
+}
+.item-link:hover
+{
+	color: black;
+	text-decoration: none;
+}
+
+
+#dropBox
+{
+	display: none;
+}
+#pricedrop
+{
+	font-weight: bold;
+	font-size: 12px;
 }

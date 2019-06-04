@@ -227,3 +227,20 @@ a:hover
 {
   cursor: pointer;
 }
+
+
+.btn-carousel
+{
+  background-color: #555; 
+  width: 10px;
+}
+
+.cur
+{
+  cursor: pointer;
+}
+
+.f-12
+{
+  font-size: 12px;
+}
