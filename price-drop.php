@@ -1,7 +1,7 @@
 <?php include("header.html"); ?>
 	
 	<div class="container-fluid mt-4 row mb-4">
-		<div class="col-3">
+		<div class="col-mdmd-3">
 			<div class="white-paper pr-4 pl-1 pt-2">
 				<ul class="sideBar"> 
 					<li class="nav-item">
@@ -43,7 +43,7 @@
 
 
 		</div>
-		<div class="col-9">
+		<div class="col-mdmd-9">
 			<div class="white-paper p-3">
 				<div class="container-fluid">
 					<p id = "pricedrop">
@@ -58,14 +58,14 @@
 					</p>
 					<hr>
 					<div class="row">
-						<div class="col-4 text-center">
+						<div class="col-mdmd-4 text-center">
 							<img class="img-fluid" src="development/images/logo.png">
 						</div>
 						
-						<div class="col-4 text-center">
+						<div class="col-mdmd-4 text-center">
 							<img class="img-fluid" src="development/images/logo.png">
 						</div>
-						<div class="col-4 text-center">
+						<div class="col-mdmd-4 text-center">
 							<img class="img-fluid" src="development/images/logo.png">
 						</div>
 					</div>
@@ -74,13 +74,13 @@
 
 				<div class="container-fluid mt-2">
 					<div class="row">
-						<div class="col-4">
+						<div class="col-mdmd-4">
 							<img class="w-100" src="development/images/A.jpg">
 						</div>
-						<div class="col-6 h-100  align-middle w-100">
+						<div class="col-mdmd-6 h-100  align-middle w-100">
 							Apple Is Here!!
 						</div>
-						<div class="col-2 align-middle h-100 d-inline-block">
+						<div class="col-mdmd-2 align-middle h-100 d-inline-block">
 							<button class="btn btn-success">
 								Go to Shop
 							</button>
@@ -90,13 +90,13 @@
 				</div>
 				<div class="container-fluid mt-2">
 					<div class="row">
-						<div class="col-4">
+						<div class="col-mdmd-4">
 							<img class="w-100" src="development/images/A.jpg">
 						</div>
-						<div class="col-6 h-100  align-middle w-100">
+						<div class="col-mdmd-6 h-100  align-middle w-100">
 							Apple Is Here!!
 						</div>
-						<div class="col-2 align-middle h-100 d-inline-block">
+						<div class="col-mdmd-2 align-middle h-100 d-inline-block">
 							<button class="btn btn-success">
 								Go to Shop
 							</button>
@@ -106,13 +106,13 @@
 				</div>
 				<div class="container-fluid mt-2">
 					<div class="row">
-						<div class="col-4">
+						<div class="col-mdmd-4">
 							<img class="w-100" src="development/images/A.jpg">
 						</div>
-						<div class="col-6 h-100  align-middle w-100">
+						<div class="col-mdmd-6 h-100  align-middle w-100">
 							Apple Is Here!!
 						</div>
-						<div class="col-2 align-middle h-100 d-inline-block">
+						<div class="col-mdmd-2 align-middle h-100 d-inline-block">
 							<button class="btn btn-success">
 								Go to Shop
 							</button>

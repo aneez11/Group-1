@@ -1,9 +1,10 @@
 <?php include("header.html"); ?>
-	
 	<div class="container-fluid row mb-4 mt-4">
 		<div class="white-paper p-4 w-100 ml-4 mb-4">
+			<div class ="col-md-4">
 			<strong>Contact Us</strong>
-			<form class="w-25 pl-2" action="#">
+
+			<form class=" pl-2" action="#">
 				<div class="form-group">
 					  <label for="sel1">Subject*</label>
 					  <select class="form-control" id="subject" placeholder="Select Subject">
@@ -42,5 +43,6 @@
 			</p>
 		</div>
 	</div>
+</div>
 
 <?php include("footer.html"); ?>
