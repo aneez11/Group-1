@@ -3,7 +3,7 @@
 	<div class="container-fluid mt-4">
 		<div class="row">
 
-			<div class="col-3">
+			<div class="col-md-3">
 				<div class="white-paper pt-3 pb-5" id="Brand">
 
 					<div class="row ml-3 f-12" >
@@ -119,7 +119,7 @@
 				</div>
 			</div>
 
-			<div class="col-6">
+			<div class="col-md-6">
 				<div class="white-paper">
 					<div id="demo" class="carousel slide" data-ride="carousel">
 
@@ -167,14 +167,14 @@
 				</div>
 			</div>
 
-			<div class="col-3">
+			<div class="col-md-3">
 				<div class="row">
-					<div class="col-12">
+					<div class="col-md-12">
 						<div class="white-paper">
 							<img class="w-100 cur" src="development/images/app.png">
 						</div>
 					</div>
-					<div class="col-12 mt-3">
+					<div class="col-md-12 mt-3">
 						<div class="white-paper">
 							<img class="w-100" src="development/images/A.jpg">
 						</div>
