@@ -1,9 +1,13 @@
-a{color: black !important;}
-a:hover{
+.an{color: black !important;
+
+	font-family: ProximaNova !important;
+	}
+.an:hover{
 	color: purple !important;
 	text-decoration: none !important;
+	font-family: ProximaNova !important;
 }
-body{
+.main-container{
 	font-family: ProximaNova !important;
 	font-size: 15px !important;
 	font-weight: 400 !important;

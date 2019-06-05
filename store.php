@@ -11,7 +11,7 @@
 
 		<hr>
 		<div class="sujanrow row">
-			<div class= "col-2">
+			<div class= "col-md-2">
 				<a class="sujana" href="#">
 					<div class="logo-box">
 						<img class="img-fluid rounded-circle  border border-dark w-100 h-100 mx-auto d-block img-box" src="images/store_logos/amazonae logo.png">
@@ -25,7 +25,7 @@
 				<span class="fa fa-star"></span>
 			</div>
 
-			<div class= "col-2">
+			<div class= "col-md-2">
 				<a class="sujana" href="#"><div class="logo-box">
 					<img class="img-fluid rounded-circle w-100 h-100 mx-auto d-block img-box" src="images/store_logos/mamas_papas.png">
 				</div></a>
@@ -37,7 +37,7 @@
 				<span class="fa fa-star"></span>
 			</div>
 
-			<div class= "col-2">
+			<div class= "col-md-2">
 				<a class="sujana" href="#"><div class="logo-box">
 					<img class="img-fluid rounded-circle w-100 h-100 mx-auto d-block img-box" src="images/store_logos/noon-logo.png">
 				</div></a>
@@ -49,7 +49,7 @@
 				<span class="fa fa-star"></span>
 			</div>
 
-			<div class= "col-2">
+			<div class= "col-md-2">
 				<a class="sujana" href="#"><div class="logo-box">
 					<img class="img-fluid rounded-circle w-100 h-100  mx-auto d-block img-box" src="images/store_logos/sharafdg_logo.png">
 				</div></a>
@@ -61,7 +61,7 @@
 				<span class="fa fa-star"></span>
 			</div>
 
-			<div class= "col-2">
+			<div class= "col-md-2">
 				<a class="sujana" href="#"><div class="logo-box">
 					<img class="img-fluid rounded-circle w-100 h-100  mx-auto d-block img-box" src="images/store_logos/sprii-new-logo.png">
 				</div></a>
@@ -73,7 +73,7 @@
 				<span class="fa fa-star"></span>
 			</div>
 
-			<div class= "col-2">
+			<div class= "col-md-2">
 				<a class="sujana" href="#"><div class="logo-box">
 					<img class="img-fluid rounded-circle w-100 h-100  mx-auto d-block img-box" src="images/store_logos/virgin_logo2.png">
 				</div></a>
@@ -87,7 +87,7 @@
 		</div>
 
 		<div class="sujanrow">
-			<div class= "col-2">
+			<div class= "col-md-2">
 				<a class="sujana" href="#"><div class="logo-box">
 					<img class="img-fluid rounded-circle w-100 h-100  mx-auto d-block img-box" src="images/store_logos/namshi.png">
 				</div></a>
